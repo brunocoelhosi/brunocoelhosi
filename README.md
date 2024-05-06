@@ -1,7 +1,7 @@
 <h2 align="left">Hello! Welcome to my Github profile.</h2>
 <h2 align="left">My name is Bruno!</h2>
 
-<h4 align="center">Tools and Technologies</h4>
+<h3 align="center">Tools and Technologies</h3>
 
 <div align="center">
 
