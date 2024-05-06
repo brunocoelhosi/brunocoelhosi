@@ -21,7 +21,7 @@
 
 <h3 align="center">Contact</h3>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/bruno-coelho-13009a207" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" height="50" alt="linkedin logo"/></a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/bruno-coelho-13009a207" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="50" height="50" alt="linkedin logo"/></a>
 </div>
 
