@@ -13,17 +13,15 @@
           
 </div>
 
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brunocoelhosi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+
+<h3 align="center">Contact</h3>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/bruno-coelho-13009a207" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" height="35" alt="linkedin logo"/>
-  </a>
+  <a href="https://www.linkedin.com/in/bruno-coelho-13009a207" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" height="50" alt="linkedin logo"/></a>
 </div>
 
