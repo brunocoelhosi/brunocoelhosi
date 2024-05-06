@@ -1,7 +1,7 @@
 <h2 align="left">Hello! Welcome to my Github profile.</h2>
 <h2 align="left">My name is Bruno!</h2>
 
-<h3 align="left">Tools and Technologies</h3>
+<h4 align="center">Tools and Technologies</h4>
 
 <div align="center">
 
@@ -16,7 +16,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunocoelhosi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brunocoelhosi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
