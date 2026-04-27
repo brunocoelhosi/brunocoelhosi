@@ -39,8 +39,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="70" src="https://github-readme-stats.vercel.app/api?username=brunocoelhosi&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="70" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocoelhosi&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=brunocoelhosi&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocoelhosi&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -57,8 +57,8 @@
 ## 🌐 Connect with Me
 
 <p align="center"> 
-  <a href="https://linkedin.com/in/seuperfil"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/> </a> 
-  <a href="https://wa.me/5534999999999"> <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="50"/> </a> 
+  <a href="https://linkedin.com/in/seuperfil"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/> </a> 
+  <a href="https://wa.me/5534999999999"> <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="40"/> </a> 
 </p>
 
 ---
