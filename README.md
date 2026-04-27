@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
 - 💻 Software Developer focused on web development  
 - ⚛️ Frontend with React and Tailwind CSS  
@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
@@ -36,7 +36,7 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="140" src="https://github-readme-stats.vercel.app/api?username=brunocoelhosi&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -45,7 +45,7 @@
 
 ---
 
-## 🔥 Current Focus
+### 🔥 Current Focus
 
 - Building modern web applications  
 - Improving clean code practices  
@@ -54,7 +54,7 @@
 
 ---
 
-## 🌐 Connect with Me
+### 🌐 Connect with Me
 
 <p align="center"> 
   <a href="https://linkedin.com/in/seuperfil"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/> </a> 
