@@ -1,20 +1,69 @@
-<h2 align="center">Hello! Welcome to my Github profile. My name is Bruno!</h2>
+<h1 align="center">Hi 👋, I'm Bruno Coelho</h1>
 
-<h3 align="center">Tools and Technologies</h3>
+<h3 align="center">Software Developer passionate about technology, games and building modern solutions.</h3>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="50" width="50" alt="python logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" height="50" width="50" alt="django logo"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="50" width="50" alt="react logo"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50" width="50" alt="js logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" height="50" width="50" alt="fast api"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="50" width="50" alt="html5 logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="50" width="50" alt="css3 logo"/>
-</div>
+<p align="center">
+  <a href="https://github.com/brunocoelhosi">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2C72C9&center=true&vCenter=true&width=600&lines=Fullstack+Developer;React+%7C+TypeScript+%7C+Python;Always+learning+new+technologies" alt="Typing SVG" />
+  </a>
+</p>
 
-<h3 align="center">Contact</h3>
+---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/bruno-coelho-13009a207" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="80" height="80" alt="linkedin logo"/></a>
-</div>
+## 🚀 About Me
+
+- 💻 Software Developer focused on web development  
+- ⚛️ Frontend with React and Tailwind CSS  
+- 🐍 Backend with Python, Django, FastAPI and TypeScript
+- 🎯 Always improving my skills and building real projects  
+- 🎮 Passionate about games and technology  
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+ 
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="70" src="https://github-readme-stats.vercel.app/api?username=brunocoelhosi&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="70" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocoelhosi&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 Current Focus
+
+- Building modern web applications  
+- Improving clean code practices  
+- Learning advanced React patterns  
+- Backend APIs with Python  
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center"> 
+  <a href="https://linkedin.com/in/seuperfil"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/> </a> 
+  <a href="https://wa.me/5534999999999"> <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="50"/> </a> 
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=brunocoelhosi&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
 
